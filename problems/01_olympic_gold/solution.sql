@@ -1,0 +1,2 @@
+-- Primary solution.
+-- Chosen as default for readability and extensibility.

@@ -1,0 +1,3 @@
+-- Purpose:
+-- Defines schema for Problem 01 (Olympic Gold Medals)
+-- Separated to allow CI, migrations, and reproducibility.
