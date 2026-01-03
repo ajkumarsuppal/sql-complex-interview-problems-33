@@ -1,0 +1,2 @@
+-- use as given 
+-- (can paste the INSERTs provided)
